@@ -1,0 +1,19 @@
+{
+  "name": "webpack_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arishem51/webpack_example.git"
+  },
+  "author": "Hung Phung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arishem51/webpack_example/issues"
+  },
+  "homepage": "https://github.com/arishem51/webpack_example#readme"
+}
